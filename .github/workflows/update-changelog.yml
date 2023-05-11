@@ -2,7 +2,7 @@ name: update changelog
 
 on:
   workflow_call:
-
+  
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -43,6 +43,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           # Push updated CHANGELOG to release target branch.
-          branch: ${{ github.event.release.target_commitish }}
+          branch: "${{ github.event.release.target_commitish }}-update-changelog"
           commit_message: Update CHANGELOG
           file_pattern: CHANGELOG.md
+          push_options: "--force"
+          create_branch: true
