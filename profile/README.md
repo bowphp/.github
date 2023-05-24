@@ -1,4 +1,4 @@
-The simple way to create the web app
+The simple way to create a web app
 
 Bow is a PHP Framework, written by **[Franck DAKIA](http://github.com/papac)** and several other contributors.
 
