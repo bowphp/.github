@@ -1,14 +1,36 @@
-The simple way to create a web app
+# BowPHP
 
-Bow is a PHP Framework, written by **[Franck DAKIA](http://github.com/papac)** and several other contributors.
+### The elegant way to build modern web applications
 
-<a href="https://bowphp.com" title="docs"><img src="https://img.shields.io/badge/docs-read%20docs-blue.svg?style=flat-square"/></a>
-<a href="https://packagist.org/packages/bowphp/framework" title="bowphp/framework"><img src="https://img.shields.io/packagist/v/bowphp/framework.svg?style=flat-square"/></a>
-<a href="https://packagist.org/packages/bowphp/app" title="bowphp/app"><img src="https://img.shields.io/packagist/v/bowphp/app.svg?style=flat-square"/></a>
-<a href="https://github.com/bowphp/app/blob/master/LICENSE" title="license"><img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square"/></a>
+BowPHP is an enterprise-grade, API-first PHP framework designed for developers who value simplicity, performance, and clean architecture.
 
-The goal is to allow beginners who want to work on a more significant project to get started and understand the workings of collaborative development. And make this framework a reference in the PHP community around the world.
+Created by Franck DAKIA and contributors worldwide, BowPHP provides a streamlined development experience for building scalable APIs, web applications, microservices, and backend systems.
 
-**Do not hesitate to start now with the [documentation](https://bowphp.com).**
+---
 
-[Thanks to all contributors](https://github.com/bowphp/app/graphs/contributors)
+## Why BowPHP?
+
+* ⚡ Fast and lightweight architecture
+* 🔥 API-first development experience
+* 🧩 Dependency Injection & IoC Container
+* 🛠️ Developer-friendly CLI tooling
+* 📦 Modular and extensible ecosystem
+* 🚀 Built for production-grade applications
+
+---
+
+## Resources
+
+* 📖 Documentation: https://bowphp.com
+* 📦 Framework Package: https://packagist.org/packages/bowphp/framework
+* 🚀 Starter Application: https://packagist.org/packages/bowphp/app
+
+---
+
+## Community
+
+BowPHP is open-source and actively maintained by a growing community of contributors.
+
+Special thanks to everyone helping improve the ecosystem:
+https://github.com/bowphp/app/graphs/contributors
+
